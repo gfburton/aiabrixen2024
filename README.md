@@ -1,6 +1,6 @@
-# EMNLP 2023 official website
+# IVACS 2024 conference website
 
-This is the code for the official website for the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
+This is the code for the conference website for the 2024 Conference on Inter-Varietal Applied Corpus Studies (IVACS 2024) -- based on the code for [EMNLP 2023](https://github.com/acl-org/emnlp-2023)
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
