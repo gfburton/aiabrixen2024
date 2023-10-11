@@ -1,0 +1,30 @@
+# main links
+#in masthead.html
+main:
+    
+  - title: "Call for Papers"
+    url: /cfp
+
+  - title: "Venue"
+    url: /venue
+    
+  - title: "Registration"
+    url: /registration/
+
+  - title: "Programme"
+    url: /programme/
+    
+  - title: "Committee"
+    url: /committee
+  
+  - title: "Contact"
+    url: /contact 
+
+programme:
+  - title: Conference Programmes
+
+cfp:
+  - title: "Call for Papers"
+  
+committee:
+  - title: Organising Committee
