@@ -2,9 +2,11 @@
 title: Programme
 layout: single
 permalink: /programme/
-sidebar: false
-toc: false
-toc_sticky: false
+toc: true
+toc_sticky: true
+toc_icon: "cog"
+sidebar:
+    nav: programme
 ---
 
 Coming soon!

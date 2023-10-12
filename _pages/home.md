@@ -3,7 +3,7 @@ title: "The 2024 Conference on Inter-Varietal Applied Corpus Studies (IVACS)"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/singapore/newmuseums.jpg"
+  overlay_image: "/assets/images/newmuseums.jpg"
   # caption: 'Photo of bicycle parked against a wall in Cambridge, U.K.'
 excerpt: "16-17th July 2024<br>University of Cambridge, U.K."
 ---

@@ -2,11 +2,8 @@
 title: Registration
 layout: single
 permalink: /registration/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
-sidebar:
-    nav: registration
+toc: false
+toc_sticky: false
 ---
 
 Coming soon
