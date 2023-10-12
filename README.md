@@ -1,5 +1,7 @@
 # IVACS 2024 conference website
 
+`git pull`, edit, and domain forward https://cainesap.github.io/ivacs2024/
+
 This is the code for the conference website for the 2024 Conference on Inter-Varietal Applied Corpus Studies (IVACS 2024) -- based on the code for [EMNLP 2023](https://github.com/acl-org/emnlp-2023)
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
