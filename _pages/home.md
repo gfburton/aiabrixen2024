@@ -11,7 +11,7 @@ excerpt: "16-17th July 2024<br>University of Cambridge, U.K."
 ## Welcome!
 
 IVACS 2024 will take place in Cambridge, U.K. on Tuesday 16th and Wednesday 17th July 2024.
-Please see the first *[Call for Papers](/cfp)*
+Please see the first **[Call for Papers](/cfp)**
 
 
 #### Plenary Speakers

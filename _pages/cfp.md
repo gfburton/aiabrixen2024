@@ -25,7 +25,7 @@ Strand 6 – Corpus Linguistics and Sociolinguistics: CL and Language Change; La
 Strand 7 – Computational Linguistics and Corpora: the use of corpora for computational linguistics research; exploration and analyses of corpora using computational linguistic methods; data collection and annotation for computational linguistics.
 
 
-#### Abstract Submission and Timeline
+### Abstract Submission and Timeline
 
 Full papers will involve a 20-minute presentation, plus 10 minutes for questions and discussion.
 
@@ -34,7 +34,7 @@ Posters will be printed in portrait A0 size.
 
 Abstracts will be 300 words (not including reference list, if any).
 
-All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth"). So e.g. in the UK and Ireland the deadline is 11.59am the morning after the stated date.
+Note that the deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth"). So e.g. in the UK and Ireland (UTC-0) the deadline is 11.59am the morning after the stated date.
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
