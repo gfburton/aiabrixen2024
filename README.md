@@ -1,8 +1,6 @@
 # IVACS 2024 conference website
 
-`git pull`, edit, and domain forward https://cainesap.github.io/ivacs2024/
-
-This is the code for the conference website for the 2024 Conference on Inter-Varietal Applied Corpus Studies (IVACS 2024) -- based on the code for [EMNLP 2023](https://github.com/acl-org/emnlp-2023)
+This is the code for the conference website for the [2024 Conference on Inter-Varietal Applied Corpus Studies]() (IVACS 2024) -- based on the code for [EMNLP 2023](https://github.com/acl-org/emnlp-2023)
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
@@ -21,6 +19,7 @@ For a new conferences, you may either set up a repository from scratch by forkin
 **IMPORTANT**: Note also that if you fork this repository, you will get all of the existing conference's pages and blog posts and schedule and other content. Therefore, it is up to you to modify/temporarily remove that content before you make your website public so that your new domain is not indexed by search engines with old content. It might be best to rename the `gh-pages` branch so that the website for the new conference does not get built with content from the old conference. You can rename the branch back to `gh-pages` once you have made sufficient changes locally to remove/modify the old conference content.
 
 **Extra note based on my experience for IVACS'24**: I downloaded the [EMNLP 2023](https://github.com/acl-org/emnlp-2023) repository, unzipped, pruned some of the unnecessary files which were specific to EMNLP (images, blogposts, subpages, etc), and edited the files mentioned below. Then created a new GitHub repository, pushed this local repository using git, and updated the GitHub repository settings under 'Pages' (source and build) in order to publish under my <username>.github.io/<repository_name> . In addition I edited the Gemfile and _config as instructed on the [Mimimal Mistakes page](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method) (I specified the version of MM forked for NAACL'21 -> EMNLP'23 which was 4.16.4). After a short delay to build, the page went live :)
+
 
 ## Important Files
 
@@ -47,23 +46,15 @@ If you fork this repository, the following files are the ones to pay attention t
   automatically re-generated when you add the new external domain for the new conference. If you do not remove this file, you will
   get a page build warning from GitHub.
 
+
 ## Domain Setup
 
-The following settings connect the the main domain booked for the conference (e.g. `naacl2021.org`) with the underlying Github Pages build. 
+In my case the underlying GitHub Pages URL is https://cainesap.github.io/ivacs2024/
 
-On the domain side, the following DNS settings need to be set up: all four IPs belong to Github, the last row connects the www subdomain to the main domain:
+I bought a domain (https://www.ivacs2024.com/) and configured the repository settings, and those for the domain as described here: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
-```
-A   @   185.199.108.153 
-A   @   185.199.109.153 
-A   @   185.199.110.153 
-A   @   185.199.111.153 
-CNAME www   naacl2021.org
-```
 
-In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `naacl2021.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
-
-# License
+## License
 
 The MIT License (MIT)
 
