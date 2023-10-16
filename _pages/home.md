@@ -9,18 +9,17 @@ excerpt: "16-17th July 2024<br>University of Cambridge, U.K."
 ---
 
 ## Welcome!
-IVACS 2024 will take place in Cambridge, U.K. on 16th and 17th July 2024. More information will be published soon.
+
+IVACS 2024 will take place in Cambridge, U.K. on Tuesday 16th and Wednesday 17th July 2024.
+Please see the first *[Call for Papers](/cfp)*
 
 
-## Important Dates
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
+#### Plenary Speakers
 
-<style>
-.news-table { font-size: .9em; table-layout: fixed;}
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
-</style>
-| Abstract deadline | XX December, 2023
-| Notification of acceptance | YY January, 2024
-| Conference | 16-17 July, 2024
+We are delighted that the following researchers will be giving plenary talks at the conference:
 
-{: .news-table}
+* [Professor Paula Buttery](https://www.cl.cam.ac.uk/~pjb48/)
+* [Dr Brian Clancy](https://www.mic.ul.ie/staff/276-brian-clancy)
+* [Dr Geraldine Mark](https://profiles.cardiff.ac.uk/staff/markg2)
+
+More information about the venue and registration will be published soon.
