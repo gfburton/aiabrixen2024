@@ -9,4 +9,4 @@ sidebar:
     nav: programme
 ---
 
-Coming soon!
+Coming soon

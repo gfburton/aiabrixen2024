@@ -16,9 +16,6 @@ main:
   - title: "Programme"
     url: /programme/
     
-  - title: "Committee"
-    url: /committee
-  
   - title: "Contact"
     url: /contact 
 

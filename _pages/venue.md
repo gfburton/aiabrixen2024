@@ -7,4 +7,4 @@ permalink: /venue/
 # toc_icon: "cog"
 ---
 
-Coming soon!
+Coming soon

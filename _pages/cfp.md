@@ -22,7 +22,7 @@ Strand 5 – Corpus Linguistics and Speech: CL Speech Technology; CL and Multimo
 
 Strand 6 – Corpus Linguistics and Sociolinguistics: CL and Language Change; Language Varieties and Variation; CL and Minority Language Studies.
 
-Strand 7 – Computational Linguistics and Corpora: the use of corpora for computational linguistics research; exploration and analyses of corpora using computational linguistic methods; data collection and annotation for computational linguistics.
+Strand 7 – Computational Linguistics and Corpora: The use of Corpora for Computational Linguistics research; Exploration and analyses of Corpora using Computational Linguistic methods; Data collection and annotation for Computational Linguistics.
 
 
 ### Abstract Submission and Timeline
@@ -51,5 +51,5 @@ Submission of abstracts: [OpenReview](https://openreview.net/group?id=IVACS/2024
 
 ### Seeking Reviewers
 
-Would you have time to help us review the abstracts in January? Maximum 3 per person.
-Please sign up [here]()
+Would you have time to help us review the abstracts in January? Maximum 5 per person.
+Please sign up [here](https://forms.gle/BkopQZ12esXMAnv36)
