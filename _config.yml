@@ -20,7 +20,7 @@ livereload: true
 locale                   : "en-US"
 title                    : "IVACS 2024"
 title_separator          : "-"
-name                     : "ivacs"
+name                     : "IVACS"
 description              : "Official website for the 2024 Conference on Inter-Varietal Applied Corpus Studies"
 url                      : "https://github.com/FreedomIntelligence/FreedomIntelligence.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
