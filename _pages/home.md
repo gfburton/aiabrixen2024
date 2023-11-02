@@ -1,5 +1,5 @@
 ---
-title: "The 2024 Conference on Inter-Varietal Applied Corpus Studies (IVACS)"
+title: "The 11th Inter-Varietal Applied Corpus Studies (IVACS) Biennial Conference"
 layout: splash
 permalink: /
 header:
@@ -10,7 +10,7 @@ excerpt: "16-17th July 2024<br>University of Cambridge, U.K."
 
 ## Welcome!
 
-IVACS 2024 will take place in Cambridge, U.K. on Tuesday 16th and Wednesday 17th July 2024.
+The 11th IVACS Conference will take place in Cambridge, U.K. on Tuesday 16th and Wednesday 17th July 2024.
 Please see the **[Call for Papers](/cfp)**
 
 
