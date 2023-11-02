@@ -6,7 +6,9 @@ sidebar: false
 toc: false
 ---
 
-## IVACS 2024, University of Cambridge, U.K.
+## The 2024 Conference on Inter-Varietal Applied Corpus Studies (IVACS)
+
+IVACS 2024 will take place in Cambridge, U.K. on Tuesday 16th and Wednesday 17th July 2024.
 
 We are particularly interested in papers in but not limited to the following areas:
 
