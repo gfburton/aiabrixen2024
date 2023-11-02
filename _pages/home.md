@@ -27,4 +27,4 @@ More information about the venue and registration will be published soon.
 #### Organising Committee
 
 * Dr Andrew Caines & Prof Paula Buttery, University of Cambridge, U.K.
-* Prof Anne O'Keeffe, Mary Immaculate College, Ireland
+* Prof Anne O'Keeffe, Mary Immaculate College, University of Limerick, Ireland
