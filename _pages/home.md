@@ -14,7 +14,7 @@ The 11th IVACS Conference will take place in Cambridge, U.K. on Tuesday 16th and
 Please see the _[Call for Papers](/cfp)_
 
 
-#### Plenary Speakers
+### Plenary Speakers
 
 We are delighted that the following researchers will be giving plenary talks at the conference:
 
@@ -24,7 +24,7 @@ We are delighted that the following researchers will be giving plenary talks at 
 More information about the venue and registration will be published soon.
 
 
-#### Organising Committee
+### Organising Committee
 
 * Dr Andrew Caines & Prof Paula Buttery, University of Cambridge, U.K. **Conference Convenors**
 * Prof Anne O'Keeffe, Mary Immaculate College, University of Limerick, Ireland. **IVACS Network Director**
@@ -32,7 +32,7 @@ More information about the venue and registration will be published soon.
 * Gabrielle Gaudeau, University of Cambridge, U.K. **Publicity Co-Chair**
 
 
-#### Advisory Committee
+### Advisory Committee
 
 * Prof Fiona Farr, University of Limerick, Ireland.
 * Prof Eric Friginal, The Hong Kong Polytechnic University.
