@@ -26,10 +26,10 @@ More information about the venue and registration will be published soon.
 
 ### Organising Committee
 
-* Dr Andrew Caines & Prof Paula Buttery, University of Cambridge, U.K. **Conference Convenors**
-* Prof Anne O'Keeffe, Mary Immaculate College, University of Limerick, Ireland. **IVACS Network Director**
-* Dr Christopher Fitzgerald, Mary Immaculate College, University of Limerick, Ireland. **Publicity Co-Chair**
-* Gabrielle Gaudeau, University of Cambridge, U.K. **Publicity Co-Chair**
+* Dr Andrew Caines & Prof Paula Buttery, University of Cambridge, U.K. _Conference Convenors_
+* Prof Anne O'Keeffe, Mary Immaculate College, University of Limerick, Ireland. _IVACS Network Director_
+* Dr Christopher Fitzgerald, Mary Immaculate College, University of Limerick, Ireland. _Publicity Co-Chair_
+* Gabrielle Gaudeau, University of Cambridge, U.K. _Publicity Co-Chair_
 
 
 ### Advisory Committee
