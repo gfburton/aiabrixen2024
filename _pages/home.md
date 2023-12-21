@@ -3,7 +3,7 @@ title: "AIA 2024 Seminar Bressanone"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/__sitelogo__uni_brixen_teaser.jpg"
+  overlay_image: "/assets/images/brix.jpg"
   # caption: 'Photo of Brixen campus, Free University of Bozen-Bolzano'
 excerpt: "16-18th May 2024<br>Free University of Bozen-Bolzano (Brixen campus)"
 ---
