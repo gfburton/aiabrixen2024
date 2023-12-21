@@ -1,5 +1,5 @@
 ---
-title: "The 11th Inter-Varietal Applied Corpus Studies (IVACS) Biennial Conference"
+title: "AIA 2024 Seminar Bressanone"
 layout: splash
 permalink: /
 header:
