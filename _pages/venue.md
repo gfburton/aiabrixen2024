@@ -13,7 +13,7 @@ The full address is:
 [Regensburger Allee 16 - viale Ratisbona, 16
 Italy - 39042, Brixen-Bressanone](https://maps.app.goo.gl/3nkBUX4geAmBePMr9)
 
-The faculty is within walking distance from the train station.
+The faculty is within walking distance from Bressanone train station.
 
 **About the campus**
 The second campus of the Free University of Bozen-Bolzano is in the charming town of Brixen-Bressanone. The Faculty of Education together with the annexed University Library is housed in the modern university complex in the very centre of the town.
