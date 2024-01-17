@@ -6,25 +6,26 @@ sidebar: false
 toc: false
 ---
 
-## The 11th Inter-Varietal Applied Corpus Studies (IVACS) Biennial Conference
+## AIA Brixen 2024
 
-The 11th IVACS Conference will take place in Cambridge, U.K., on Tuesday 16th and Wednesday 17th July 2024.
+The AIA Seminar 2024 will take place in Brixen-Bressanone from Thursday 16th to Saturday 18th May 2024.
 
-We are particularly interested in papers in but not limited to the following areas:
+We invite reflections on English-language narratives in professional settings from different research areas and disciplines. We particularly welcome contributions from PhD students and emerging scholars from a range of theoretical and methodological approaches, such as, but not limited to, conversation analysis, discourse analysis, critical discourse analysis, genre analysis, corpus linguistics, contrastive linguistics, cognitive linguistics, and ethnography of communication. 
 
-Strand 1 – Corpus Methods and Innovations: Innovations in Corpus Design, Analysis and Annotation Tools; Critical Reflections on Corpus Methods; Advances in Quantitative and Qualitative Approaches to Analysing Corpora; Innovations in Statistics for CL.
+Possible topics to be explored include, but are not limited to:
 
-Strand 2 – Corpus Linguistics, Pragmatics and Discourse: Corpus Approaches to Discourse Analysis, Conversation Analysis, Critical Discourse Analysis; Corpus Pragmatics; CL and Real-World Contexts (e.g. Media Discourse, Classroom Discourse; Workplace Discourse). 
-
-Strand 3 – Corpus Linguistics and Applied Linguistics: Learner Corpus Research; CL and Second Language Acquisition; Data-Driven Learning; CL for Materials Development; CL and Teacher Education; CL and Lexicography.
-
-Strand 4 – Corpus Linguistics, Literature, Texts and Register: CL and Register Studies; Corpus Stylistics; CL and Literary Linguistics; CL and Translation Studies; Forensic Linguistics.
-
-Strand 5 – Corpus Linguistics and Speech: CL Speech Technology; CL and Multimodality; Spoken Corpora; Corpus Phonology.
-
-Strand 6 – Corpus Linguistics and Sociolinguistics: CL and Language Change; Language Varieties and Variation; CL and Minority Language Studies.
-
-Strand 7 – Computational Linguistics and Corpora: The use of Corpora for Computational Linguistics research; Exploration and analyses of Corpora using Computational Linguistic methods; Data collection and annotation for Computational Linguistics.
+-	Academic writing and speaking
+-	Corporate and organizational communication
+-	Culture, cultural studies, cultural promotion, cultural mediation
+-	Education
+-	Environment and environmentalism
+-	Health and medicine
+-	Legal practice
+-	News, mass media, social media
+-	Politics
+-	Science and technology
+-	Social work and welfare
+-	Travel and tourism 
 
 
 ### Abstract Submission and Timeline
@@ -32,26 +33,19 @@ Strand 7 – Computational Linguistics and Corpora: The use of Corpora for Compu
 Full papers will involve a 20-minute presentation, plus 10 minutes for questions and discussion.
 
 Posters can present work in progress or summaries of completed studies, research projects or other innovations.
-Posters will be printed in portrait A0 size. 
 
 Abstracts will be 300 words (not including reference list, if any).
 
-Note that the deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth"). So e.g. in the UK and Ireland (UTC-0) the deadline is 11.59am the morning after the stated date.
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Abstract deadline | 20th December, 2023
-| Notification | 31st January, 2024
-| Conference | 16th-17th July, 2024
+| Abstract deadline | 15th March, 2024
+| Notification | 15th April, 2024
+| Conference | 16th-18th May, 2024
 
 {: .news-table}
 
-Submission of abstracts: [OpenReview](https://openreview.net/group?id=IVACS/2024/Conference)
+Submission of abstracts: [OpenReview](https://openreview.net/xxx)
 
-
-### Seeking Reviewers
-
-Would you have time to help us review the abstracts in January? Maximum 5 per person.
-Please sign up [here](https://forms.gle/BkopQZ12esXMAnv36)
