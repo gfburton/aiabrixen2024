@@ -18,10 +18,10 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IVACS 2024"
+title                    : "AIA Brixen 2024"
 title_separator          : "-"
-name                     : "IVACS"
-description              : "Official website for the 2024 Conference on Inter-Varietal Applied Corpus Studies"
+name                     : "AIABrixen"
+description              : "Official website for the 2024 AIA Seminar in Brixen-Bressanone"
 url                      : "https://github.com/FreedomIntelligence/FreedomIntelligence.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "ivacs2024"
+    shortname            : "aiabrixen2024"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -117,7 +117,7 @@ footer:
     #   url: https://facebook.com/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/cainesap/ivacs2024
+      url: https://github.com/gfburton/aiabrixen2024/
       #url: https://github.com/FreedomIntelligence/FreedomIntelligence.github.io
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
