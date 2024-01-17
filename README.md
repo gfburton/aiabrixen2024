@@ -48,9 +48,9 @@ If you fork this repository, the following files are the ones to pay attention t
 
 ## Domain Setup
 
-In my case the underlying GitHub Pages URL is https://cainesap.github.io/ivacs2024/
+The underlying GitHub Pages URL is http://github.com/gfburton/aiabrixen2024/
 
-I bought a domain (https://www.ivacs2024.com/) and configured the repository settings, and those for the domain as described here: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+I bought a domain and configured the repository settings, and those for the domain as described here: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
 
 ## License
