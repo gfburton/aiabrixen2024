@@ -7,4 +7,4 @@ toc: false
 toc_sticky: false
 ---
 
-Any questions? Please email us: contact 'at' ivacs2024 'dot' com
+Any questions? Please email us: [aiabrixen2024@unibz.it](mailto:aiabrixen2024@unibz.it)
