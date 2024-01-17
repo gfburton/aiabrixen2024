@@ -1,5 +1,5 @@
 ---
-title: "AIA 2024 Seminar Bressanone"
+title: "AIA 2024 Seminar Brixen-Bressanone"
 layout: splash
 permalink: /
 header:
@@ -10,8 +10,8 @@ excerpt: "16-18th May 2024<br>Free University of Bozen-Bolzano (Brixen campus)"
 
 ## Welcome!
 
-The 2024 AIA seminar will take place in Bressanone from 16th to 18th May 2024.
-Please see the _[Call for Papers](/cfp)_
+The 2024 AIA seminar will take place in Brixen-Bressanone from 16th to 18th May 2024.
+Please see the _[Call for Papers](https://gfburton.github.io/aiabrixen2024/cfp/)
 
 
 ### Plenary Speakers
