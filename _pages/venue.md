@@ -19,7 +19,9 @@ The faculty is within walking distance from Bressanone train station.
 
 **About the campus**
 
-The Faculty of Education is in the charming town of Brixen-Bressanone, and together with the annexed University Library is housed in the modern university complex in the very centre of the town.
+The Faculty of Education and the annexed University Library is housed in the modern university complex in the very centre of the town. A full lunch service is offered daily in the on-site canteen.
+
+**About Brixen-Bressanone**
 
 Since the end of the World War II Brixen-Bressanone has experienced a spurt in economic growth while consolidating its artistic and cultural vocation. Visitors will find a comfortably-sized town of about 18,000 inhabitants, free of traffic problems.
 
