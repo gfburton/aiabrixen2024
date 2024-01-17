@@ -1,7 +1,6 @@
 # IVACS 2024 conference website
 
-This is the code for the conference website for the [2024 Conference on Inter-Varietal Applied Corpus Studies]() (IVACS 2024) -- based on the code for [EMNLP 2023](https://github.com/acl-org/emnlp-2023)
-
+This is the code for the conference website for the [AIA Brixen 2024]() (AIA Brixen 2024) -- based on the code for [IVACS 2024](github.com/cainesap/ivacs2024)
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
 # Table of contents
@@ -49,9 +48,9 @@ If you fork this repository, the following files are the ones to pay attention t
 
 ## Domain Setup
 
-In my case the underlying GitHub Pages URL is https://cainesap.github.io/ivacs2024/
+In my case the underlying GitHub Pages URL is (https://github.com/gfburton/aiabrixen2024)
 
-I bought a domain (https://www.ivacs2024.com/) and configured the repository settings, and those for the domain as described here: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+I bought a domain and configured the repository settings, and those for the domain as described here: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
 
 ## License
