@@ -18,15 +18,23 @@ Please see the _[Call for Papers](/cfp)_
 
 We are delighted that the following researchers will be giving plenary talks at the conference:
 
-* [Bob](https://www.mic.ul.ie/staff/276-brian-clancy)
-* [Bob](https://profiles.cardiff.ac.uk/staff/markg2)
+* [Paola Catenaccio, University of Milan](https://www.unimi.it/it/ugov/person/paola-catenaccio)
+* [Alexandra Georgakopoulou, King's College, London](https://www.kcl.ac.uk/people/alexandra-georgakopoulou)
+* [Camilla Vasquez, University of South Florida](https://www.usf.edu/arts-sciences/departments/world-languages/about-us/c-vasquez.aspx)
 
 More information about the venue and registration will be published soon.
 
 
-### Organising and Scientific Committee
+### Organising  Committee
 
-* Bob. _Conference Convenors_
-* Bob. _IVACS Network Director_
-* Bob. _Publicity Co-Chair_
-* Bob, University of Bob. _Publicity Co-Chair_
+* Prof. Maria Cristina Gatti
+* Prof. agg. Martina Irsara
+* Dr. Cecilia Lazzeretti
+* Dr. Graham Burton
+* Dr. Francesca Vitali
+* Dr. Laura Andrisano
+
+### Scientific Committee
+* Tizio
+* Caio
+* Sempronio
