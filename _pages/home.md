@@ -11,12 +11,12 @@ excerpt: "16-18th May 2024<br>Free University of Bozen-Bolzano (Brixen campus)"
 ## Welcome!
 
 The 2024 AIA seminar will take place in Brixen-Bressanone from 16th to 18th May 2024.
-Please see the _[Call for Papers](https://gfburton.github.io/aiabrixen2024/cfp/)
+Please see the _[Call for Papers](https://gfburton.github.io/aiabrixen2024/)
 
 
 ### Plenary Speakers
 
-We are delighted that the following researchers will be giving plenary talks at the conference:
+We are delighted that the following speakers will be giving plenary talks at the conference:
 
 * [Paola Catenaccio, University of Milan](https://www.unimi.it/it/ugov/person/paola-catenaccio)
 * [Alexandra Georgakopoulou, King's College, London](https://www.kcl.ac.uk/people/alexandra-georgakopoulou)
