@@ -7,9 +7,11 @@ permalink: /venue/
 # toc_icon: "cog"
 ---
 **Location**
-The seminar will take place at the Faculty of Education, Brixen-Bressanone. The full address is:
-Regensburger Allee 16 - viale Ratisbona, 16
-Italy - 39042, Brixen-Bressanone
+The seminar will take place at the Faculty of Education, Brixen-Bressanone.
+
+The full address is:
+Regensburger Allee 16 - viale Ratisbona, 16(https://maps.app.goo.gl/3nkBUX4geAmBePMr9)
+Italy - 39042, Brixen-Bressanone(https://maps.app.goo.gl/3nkBUX4geAmBePMr9)
 
 The faculty is within walking distance from the train station.
 
