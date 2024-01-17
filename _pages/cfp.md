@@ -5,7 +5,6 @@ permalink: /cfp/
 sidebar: false
 toc: false
 ---
-The AIA Seminar 2024 will take place in Brixen-Bressanone from Thursday 16th to Saturday 18th May 2024.
 
 We invite reflections on English-language narratives in professional settings from different research areas and disciplines. We particularly welcome contributions from PhD students and emerging scholars from a range of theoretical and methodological approaches, such as, but not limited to, conversation analysis, discourse analysis, critical discourse analysis, genre analysis, corpus linguistics, contrastive linguistics, cognitive linguistics, and ethnography of communication. 
 
@@ -42,5 +41,5 @@ Abstracts will be xxx words (not including references, if any).
 
 {: .news-table}
 
-To submit an abstract, please click here (you will be redirected to the submission site): [OpenReview](https://openreview.net/xxx)
+To submit an abstract: [OpenReview](https://openreview.net/xxx)
 
