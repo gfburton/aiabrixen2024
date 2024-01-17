@@ -30,11 +30,9 @@ Possible topics to be explored include, but are not limited to:
 
 ### Abstract Submission and Timeline
 
-Full papers will involve a 20-minute presentation, plus 10 minutes for questions and discussion.
+We are accepting abstracts for 20-minute presentations, with 10 minutes for questions and discussion.
 
-Posters can present work in progress or summaries of completed studies, research projects or other innovations.
-
-Abstracts will be 300 words (not including reference list, if any).
+Abstracts will be xxx words (not including references, if any).
 
 
 <style>
