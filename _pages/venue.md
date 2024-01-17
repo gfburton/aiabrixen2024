@@ -8,9 +8,6 @@ permalink: /venue/
 ---
 **Location**
 The seminar will take place at the [Faculty of Education, Brixen-Bressanone](https://www.unibz.it/en/applicants/the-three-campuses/brixen-bressanone/).
-header:
-  overlay_image: "/assets/images/brix.jpg"
-  # caption: 'Photo of Brixen campus, Free University of Bozen-Bolzano'
 The full address is:
 [Regensburger Allee 16 - viale Ratisbona, 16
 Italy - 39042, Brixen-Bressanone](https://maps.app.goo.gl/3nkBUX4geAmBePMr9)
