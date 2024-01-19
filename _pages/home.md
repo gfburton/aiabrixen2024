@@ -22,7 +22,7 @@ We are delighted that the following speakers will be giving plenary talks at the
 * [Alexandra Georgakopoulou, King's College, London](https://www.kcl.ac.uk/people/alexandra-georgakopoulou)
 * [Camilla Vasquez, University of South Florida](https://www.usf.edu/arts-sciences/departments/world-languages/about-us/c-vasquez.aspx)
 
-More information about the venue and registration will be published soon.
+Information about registration will be published nearer the conference dates.
 
 
 ### Conference Chair
