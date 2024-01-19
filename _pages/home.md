@@ -25,6 +25,11 @@ We are delighted that the following speakers will be giving plenary talks at the
 More information about the venue and registration will be published soon.
 
 
+### Conference Chair
+
+Prof. Maria Cristina Gatti
+
+
 ### Organising  Committee
 
 * Prof. Maria Cristina Gatti
