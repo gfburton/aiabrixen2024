@@ -15,7 +15,7 @@ Research on professional discourse follows various lines of inquiry and offers d
 
 **References**
 
-Bamberg, M. and Georgakopoulou, A. (2008). Small stories as a new perspective in narrative and identity analysis. _Text & Talk_ _28_(3), 377-396
+Bamberg, M. and Georgakopoulou, A. (2008). Small stories as a new perspective in narrative and identity analysis. _Text & Talk_ _28_(3), 377-396.
 
 Candlin, C. N. and Maley, Y. (1997). Intertextuality and interdiscursivity in the discourse of alternative dispute resolution. In B.L. Gunnarsson, P. Linell and B. Nordberg (Eds.) _The Construction of Professional Discourse_ (pp. 201-222). Routledge.
 
