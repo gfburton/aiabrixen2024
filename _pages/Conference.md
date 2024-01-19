@@ -17,18 +17,18 @@ Research on professional discourse follows various lines of inquiry and offers d
 
 Bamberg, M. and Georgakopoulou, A. (2008). Small stories as a new perspective in narrative and identity analysis. _Text & Talk_ _28_(3), 377-396
 
-Candlin, C. N. and Maley, Y. (1997). Intertextuality and interdiscursivity in the discourse of alternative dispute resolution. In B.L. Gunnarsson, P. Linell and B. Nordberg (Eds.) The Construction of Professional Discourse, pp. 201-222. New York and London: Routledge.
+Candlin, C. N. and Maley, Y. (1997). Intertextuality and interdiscursivity in the discourse of alternative dispute resolution. In B.L. Gunnarsson, P. Linell and B. Nordberg (Eds.) _The Construction of Professional Discourse_ (pp. 201-222). Routledge.
 
-Candlin, C.N., Crichton, J. and More, S. H. (2017). Exploring Discourse in Context and in Action. Palgrave MacMillan.
+Candlin, C.N., Crichton, J. and More, S. H. (2017). _Exploring Discourse in Context and in Action_. Palgrave MacMillan.
 
-De Fina, A. (2015). Narrative and Identities. In A. De Fina and A. Georgakopoulou (Eds.) The Handbook of Narrative Analysis, pp. 251-268. Chichister, UK: John Wiley & Sons.
+De Fina, A. (2015). Narrative and Identities. In A. De Fina and A. Georgakopoulou (Eds.) _The Handbook of Narrative Analysis_ (pp. 251-268). John Wiley & Sons.
 
-Fairclough, N. (1995). Critical Discourse Analysis: The Critical Study of Language. New York: Longman.
+Fairclough, N. (1995). _Critical Discourse Analysis: The Critical Study of Language_. Longman.
 
-Georgakopoulou, A. (2006). Thinking big with small stories in narrative and identity analysis. Narrative inquiry 16(1): 122-130.
+Georgakopoulou, A. (2006). Thinking big with small stories in narrative and identity analysis. _Narrative inquiry_ _16_(1), 122-130.
 
-Herman, D. (2009). Basic elements of narrative. Hoboken, New Jersey: John Wiley & Sons.
+Herman, D. (2009). _Basic elements of narrative_. John Wiley & Sons.
 
-Labov, W. (1972). Language in the inner city: Studies in the Black English vernacular (No. 3). Philadelphia: University of Pennsylvania Press.
+Labov, W. (1972). _Language in the inner city: Studies in the Black English vernacular (No. 3)_. University of Pennsylvania Press.
 
-Toolan, M.J. (2013). Narrative: A critical linguistic introduction. New York: Routledge.
+Toolan, M.J. (2013). _Narrative: A critical linguistic introduction_. Routledge.
