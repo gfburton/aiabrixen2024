@@ -5,7 +5,7 @@ main:
     url: /
 
   - title: "Conference"
-    url: /conference
+    url: /Conference
   
   - title: "Call for Papers"
     url: /cfp
