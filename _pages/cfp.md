@@ -41,5 +41,5 @@ Abstracts will be 250–300 words (not including references). Please use the APA
 
 {: .news-table}
 
-To submit an abstract: [OpenReview](https://openreview.net/xxx)
+To submit an abstract: [OpenReview](https://openreview.net/group?id=AIA/2024/Seminar_Brixen)
 
