@@ -37,7 +37,7 @@ Abstracts will be 250–300 words (not including references). Please use the APA
 </style>
 | Abstract deadline | 15th March, 2024
 | Notification | 15th April, 2024
-| Conference | 16th-18th May, 2024
+| Conference | 16th–18th May, 2024
 
 {: .news-table}
 
