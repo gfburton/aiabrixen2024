@@ -1,5 +1,5 @@
 ---
-title: Venue
+title: Conference
 layout: single
 permalink: /Conference/
 # toc: true
@@ -15,12 +15,20 @@ Research on professional discourse follows various lines of inquiry and offers d
 
 **References**
 
-Bamberg, M. and Georgakopoulou, A. (2008). Small stories as a new perspective in narrative and identity analysis. Text & Talk 28(3): 377-396
+Bamberg, M. and Georgakopoulou, A. (2008). Small stories as a new perspective in narrative and identity analysis. _Text & Talk_ _28_(3), 377-396
+
 Candlin, C. N. and Maley, Y. (1997). Intertextuality and interdiscursivity in the discourse of alternative dispute resolution. In B.L. Gunnarsson, P. Linell and B. Nordberg (Eds.) The Construction of Professional Discourse, pp. 201-222. New York and London: Routledge.
+
 Candlin, C.N., Crichton, J. and More, S. H. (2017). Exploring Discourse in Context and in Action. Palgrave MacMillan.
+
 De Fina, A. (2015). Narrative and Identities. In A. De Fina and A. Georgakopoulou (Eds.) The Handbook of Narrative Analysis, pp. 251-268. Chichister, UK: John Wiley & Sons.
+
 Fairclough, N. (1995). Critical Discourse Analysis: The Critical Study of Language. New York: Longman.
+
 Georgakopoulou, A. (2006). Thinking big with small stories in narrative and identity analysis. Narrative inquiry 16(1): 122-130.
+
 Herman, D. (2009). Basic elements of narrative. Hoboken, New Jersey: John Wiley & Sons.
+
 Labov, W. (1972). Language in the inner city: Studies in the Black English vernacular (No. 3). Philadelphia: University of Pennsylvania Press.
+
 Toolan, M.J. (2013). Narrative: A critical linguistic introduction. New York: Routledge.
