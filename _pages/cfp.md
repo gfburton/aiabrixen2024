@@ -28,7 +28,7 @@ Possible topics to be explored include, but are not limited to:
 
 We are accepting abstracts for 20-minute presentations, with 10 minutes for questions and discussion.
 
-Abstracts will be xxx words (not including references, if any).
+Abstracts will be 250–300 words (not including references). Please use the APA 7 citation style for references.
 
 
 <style>
