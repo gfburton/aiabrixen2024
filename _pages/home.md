@@ -35,5 +35,5 @@ Prof. Maria Cristina Gatti
 * Dr. Cecilia Lazzeretti
 * Dr. Graham Burton
 * Dr. Francesca Vitali
-* Dr. Laura Andrisano
+* Dr. Laura Narisano
 
