@@ -23,17 +23,28 @@ We are delighted that the following speakers will be giving plenary talks at the
 * [Camilla Vasquez, University of South Florida](https://www.usf.edu/arts-sciences/departments/world-languages/about-us/c-vasquez.aspx)
 
 
-### Conference Chair
-
-Prof. Maria Cristina Gatti
-
-
 ### Organising  Committee
 
-* Prof. Maria Cristina Gatti
+* Prof. Maria Cristina Gatti (chair)
 * Prof. agg. Martina Irsara
 * Dr. Cecilia Lazzeretti
 * Dr. Graham Burton
 * Dr. Francesca Vitali
 * Dr. Laura Narisano
 
+
+### Scientific Committee
+
+Giuseppe Balirano
+Graham Burton
+Paola Catenaccio
+Manuela D'Amore
+Massimiliano Demata
+Maria Cristina Gatti
+Alexandra Georgakopoulou
+Martina Irsara
+Cecilia Lazzeretti 
+Bruna Mancini
+Marilena Parlati
+Irene Ranzato
+Camilla Vasquez
