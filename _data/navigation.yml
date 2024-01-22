@@ -1,8 +1,8 @@
 # main links
 #in masthead.html
 main:
-  - title: "Home"
-    url: /
+  #- title: "Home"
+  #  url: /
 
   - title: "Theme"
     url: /Theme
