@@ -1,6 +1,6 @@
 # AIA Brixen 2024 seminar website
 
-This is the code for the seminar website for the [2024 AIA Seminar in Brixen ]() (AIA Brixen 2024) -- based on the code for [EMNLP 2023](https://github.com/acl-org/emnlp-2023)
+This is the code for the seminar website for the [2024 AIA Seminar in Brixen ]() (AIA Brixen 2024) -- based on the code for [IVACS 2024](https://github.com/cainesap/ivacs2024)
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
