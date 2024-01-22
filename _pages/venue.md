@@ -26,3 +26,7 @@ The Faculty of Education and the annexed University Library is housed in the mod
 Since the end of the World War II Brixen-Bressanone has experienced a spurt in economic growth while consolidating its artistic and cultural vocation. Visitors will find a comfortably-sized town of about 18,000 inhabitants, free of traffic problems.
 
 The mediaeval alleys and the wealth of historical references are an ideal starting point for excursions into the countryside and for practising a whole variety of sports and leisure activities. It is possible to set off by bike or on foot for excursions into the surrounding hills and mountains; a good example of a fine place for walking and biking is the Plose mountain, easily accessible by public transport, and which in the winter months becomes a favourite area for skiing and snowboarding.
+
+**Accommodation**
+
+Information about accommodation will be provided shortly.
