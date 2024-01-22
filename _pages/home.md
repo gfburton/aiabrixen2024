@@ -16,7 +16,7 @@ Please see the _[Call for Papers](https://gfburton.github.io/aiabrixen2024/cfp/)
 
 ### Plenary Speakers
 
-We are delighted to welcome the following plenary speakers at the seminar:
+We are delighted to announce our plenary speakers:
 
 * [Paola Catenaccio, University of Milan](https://www.unimi.it/it/ugov/person/paola-catenaccio)
 * [Alexandra Georgakopoulou, King's College, London](https://www.kcl.ac.uk/people/alexandra-georgakopoulou)
