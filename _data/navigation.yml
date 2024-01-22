@@ -4,8 +4,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Conference"
-    url: /Conference
+  - title: "Theme"
+    url: /Theme
   
   - title: "Call for Papers"
     url: /cfp
