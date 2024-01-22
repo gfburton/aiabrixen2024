@@ -25,12 +25,12 @@ We are delighted that the following speakers will be giving plenary talks at the
 
 ### Organising  Committee
 
-* Prof. Maria Cristina Gatti (chair)
-* Prof. agg. Martina Irsara
-* Dr. Cecilia Lazzeretti
-* Dr. Graham Burton
-* Dr. Francesca Vitali
-* Dr. Laura Narisano
+* Maria Cristina Gatti (chair)
+* Martina Irsara
+* Cecilia Lazzeretti
+* Graham Burton
+* Francesca Vitali
+* Laura Narisano
 
 
 ### Scientific Committee
