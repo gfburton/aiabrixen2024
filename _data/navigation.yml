@@ -21,9 +21,10 @@ main:
     
   - title: "Contact"
     url: /contact 
-
-cfp:
-  - title: "Call for Papers"
-  
-committee:
-  - title: Organising Committee
+#
+#cfp:
+#  - title: "Call for Papers"
+#  
+#committee:
+#  - title: Organising Committee
+#
