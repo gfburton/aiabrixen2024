@@ -35,16 +35,16 @@ We are delighted that the following speakers will be giving plenary talks at the
 
 ### Scientific Committee
 
-Giuseppe Balirano
-Graham Burton
-Paola Catenaccio
-Manuela D'Amore
-Massimiliano Demata
-Maria Cristina Gatti
-Alexandra Georgakopoulou
-Martina Irsara
-Cecilia Lazzeretti 
-Bruna Mancini
-Marilena Parlati
-Irene Ranzato
-Camilla Vasquez
+* Giuseppe Balirano
+* Graham Burton
+* Paola Catenaccio
+* Manuela D'Amore
+* Massimiliano Demata
+* Maria Cristina Gatti
+* Alexandra Georgakopoulou
+* Martina Irsara
+* Cecilia Lazzeretti 
+* Bruna Mancini
+* Marilena Parlati
+* Irene Ranzato
+* Camilla Vasquez
