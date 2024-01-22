@@ -1,7 +1,7 @@
 ---
-title: Conference
+title: Theme
 layout: single
-permalink: /Conference/
+permalink: /Theme/
 # toc: true
 # toc_sticky: true
 # toc_icon: "cog"
