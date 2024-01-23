@@ -26,9 +26,9 @@ Possible topics to be explored include, but are not limited to:
 
 ### Abstract Submission and Timeline
 
-We are accepting abstracts for 20-minute presentations, with 10 minutes for questions and discussion.
+Submissions can be made by AIA members only. For information about AIA membership, see: [https://www.anglistica.it/join-aia/](https://www.anglistica.it/join-aia/). 
 
-Abstracts will be 250–300 words (not including references). Please use the APA 7 citation style for references.
+We are accepting abstracts for 20-minute presentations, with 10 minutes for questions and discussion. Abstracts will be 250–300 words (not including references). Please use the APA 7 citation style for references.
 
 
 <style>
