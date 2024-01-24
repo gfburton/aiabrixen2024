@@ -43,3 +43,7 @@ We are accepting abstracts for 20-minute presentations, with 10 minutes for ques
 
 To submit an abstract: [OpenReview](https://openreview.net/group?id=AIA/2024/Seminar_Brixen)
 
+
+### Volunteer to review abstracts
+
+If you would like to review abstracts for the Seminar (max 5 reviews), please complete the form here: [https://forms.office.com/e/jFBcFFyJ9i]
