@@ -46,4 +46,4 @@ To submit an abstract: [OpenReview](https://openreview.net/group?id=AIA/2024/Sem
 
 ### Volunteer to review abstracts
 
-If you would like to review abstracts for the Seminar (max 5 reviews), please complete the form here: [https://forms.office.com/e/jFBcFFyJ9i](https://forms.office.com/e/jFBcFFyJ9i)
+If you would like to be involved in the abstract review process for the seminar (max 5 reviews), please complete the form here: [https://forms.office.com/e/jFBcFFyJ9i](https://forms.office.com/e/jFBcFFyJ9i)
