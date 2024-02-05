@@ -1,5 +1,5 @@
 ---
-title: Theme
+title: A Linguistic Lens on Narratives in Professional Settings
 layout: single
 permalink: /Theme/
 # toc: true
