@@ -26,9 +26,9 @@ Possible topics to be explored include, but are not limited to:
 
 ### Abstract Submission and Timeline
 
-Submissions can be made by AIA members only. For information about AIA membership, see: [https://www.anglistica.it/join-aia/](https://www.anglistica.it/join-aia/). 
-
 We are accepting abstracts for 20-minute presentations, with 10 minutes for questions and discussion. Abstracts will be 250–300 words (not including references). Please use the APA 7 citation style for references.
+
+Please note: to attend the conference, including to present a paper, it is necessary to be a member of AIA. You may make a submission without being a member, but you must become a member if your paper is accepted or it will be removed from the programme. For information about AIA membership, see: [https://www.anglistica.it/join-aia/](https://www.anglistica.it/join-aia/). 
 
 
 <style>
