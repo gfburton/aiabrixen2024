@@ -18,7 +18,7 @@ Please see the _[Call for Papers](https://gfburton.github.io/aiabrixen2024/cfp/)
 
 We are delighted to announce our plenary speakers:
 
-* [Paola Catenaccio, University of Milan](https://www.unimi.it/it/ugov/person/paola-catenaccio)
+* [Paola Catenaccio, University of Milan](https://www.unimi.it/en/ugov/person/paola-catenaccio)
 * [Alexandra Georgakopoulou, King's College, London](https://www.kcl.ac.uk/people/alexandra-georgakopoulou)
 * [Camilla Vasquez, University of South Florida](https://www.usf.edu/arts-sciences/departments/world-languages/about-us/c-vasquez.aspx)
 
