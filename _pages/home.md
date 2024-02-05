@@ -1,5 +1,5 @@
 ---
-title: "AIA 2024 Seminar: A Linguistic Lens on Narratives in Professional Settings"
+title: "AIA Brixen 2024 Seminar"
 layout: splash
 permalink: /
 header:
@@ -10,7 +10,7 @@ excerpt: "16-18th May 2024<br>Free University of Bozen-Bolzano (Brixen campus)"
 
 ## Welcome!
 
-The 2024 AIA seminar will take place at the Faculty of Education, Free University of Bozen-Bolzano, in Brixen-Bressanone from 16th to 18th May 2024.
+The 2024 AIA seminar, "A Linguistic Lens on Narratives in Professional Settings", will take place at the Faculty of Education, Free University of Bozen-Bolzano, from 16th to 18th May 2024.
 Please see the _[Call for Papers](https://gfburton.github.io/aiabrixen2024/cfp/)_.
 
 
