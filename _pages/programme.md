@@ -14,6 +14,11 @@ sidebar:
 ### Paola Catenaccio, University of Milan
 Abstract coming soon!
 
+### Alexandra Georgakopoulou-Nunes, King's College London
+Curated storytelling in/for the digital era: The case of story-formats
+
+My starting point for this talk is that any study of contemporary, everyday life storytelling has to somehow grapple with & factor in the reality of the attested instrumentalization and curation of stories in a range of domains, in particular social media platforms. Following on from this, my aim is to provide a methodologically and analytically replicable framework for studying stories as curated activities, produced out of the entanglements of situated discourses about stories with (technological) affordances of given contexts of storytelling and the participants’ communicative practices. To explore these connections, I will report on my longitudinal study of the evolution of storytelling facilities on social media platforms. I will specifically introduce you to the technographic method I have employed, so as to uncover the processes through which stories become formatted, that is, typified, recognizable and normative activities. I will then tease out the key story-formats that I have documented across platforms and the multi-semiotic features (linguistic, textual, visual, auditory) within them. I will show how the curated formatting of stories results in a templatization of form and content that is replicated across languages and cultures, serving the enregisterment of stories and their tellers as ‘authentic’ and ‘relatable’. I will conclude with reflections on the current, intimate links of storytelling with notions of authenticity, that, although primarily instrumentalized by social media, permeate different contexts of storytelling.
+
 ### Camilla Vasquez, University of South Florida
 Storying Consumer Experiences: Narrativity in Online Reviews
 
@@ -27,12 +32,7 @@ Vásquez, C. (2014). _The discourse of online consumer reviews_. London: Bloomsb
 
 Vásquez, C. (2015). Right now versus back then: Recency and remoteness as discursive resources in online reviews. _Discourse, Context & Media_, 9, 5-13
 
-### Alexandra Georgakopoulou-Nunes, King's College London
-Curated storytelling in/for the digital era: The case of story-formats
-
-My starting point for this talk is that any study of contemporary, everyday life storytelling has to somehow grapple with & factor in the reality of the attested instrumentalization and curation of stories in a range of domains, in particular social media platforms. Following on from this, my aim is to provide a methodologically and analytically replicable framework for studying stories as curated activities, produced out of the entanglements of situated discourses about stories with (technological) affordances of given contexts of storytelling and the participants’ communicative practices. To explore these connections, I will report on my longitudinal study of the evolution of storytelling facilities on social media platforms. I will specifically introduce you to the technographic method I have employed, so as to uncover the processes through which stories become formatted, that is, typified, recognizable and normative activities. I will then tease out the key story-formats that I have documented across platforms and the multi-semiotic features (linguistic, textual, visual, auditory) within them. I will show how the curated formatting of stories results in a templatization of form and content that is replicated across languages and cultures, serving the enregisterment of stories and their tellers as ‘authentic’ and ‘relatable’. I will conclude with reflections on the current, intimate links of storytelling with notions of authenticity, that, although primarily instrumentalized by social media, permeate different contexts of storytelling.
-
-## Parallel sessions
+## Conference programme
 
 Coming soon
 
