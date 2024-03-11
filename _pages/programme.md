@@ -15,7 +15,7 @@ sidebar:
 Abstract coming soon!
 
 ### Alexandra Georgakopoulou-Nunes, King's College London
-![Alexandra Georgakopoulou-Nunes](/assets/images/Alexandra.jpeg){: .align-center}
+![Alexandra Georgakopoulou-Nunes](/assets/images/alexandra.jpeg){: .align-center}
 
 Curated storytelling in/for the digital era: The case of story-formats
 
