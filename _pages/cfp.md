@@ -35,7 +35,8 @@ Please note: to attend the conference, including to present a paper, it is neces
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Abstract deadline | 15th March, 2024
+| Abstract deadline | <s>15th March, 2024</s>
+| <span style="color:red">Extended deadline</span> | <span style="color:red">15th March, 2024</span>
 | Notification | 15th April, 2024
 | Conference | 16th–18th May, 2024
 
