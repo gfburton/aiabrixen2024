@@ -23,7 +23,7 @@ We are delighted to announce our plenary speakers:
 
 * [Paola Catenaccio, University of Milan](https://www.unimi.it/en/ugov/person/paola-catenaccio)
 * [Alexandra Georgakopoulou, King's College, London](https://www.kcl.ac.uk/people/alexandra-georgakopoulou)
-* [Camilla Vasquez, University of South Florida](https://www.usf.edu/arts-sciences/departments/world-languages/documents/c-vasquez-cv.pdf)
+* [Camilla Vasquez, University of South Florida](https://www.usf.edu/arts-sciences/departments/world-languages/about-us/people/c-vasquez.aspx)
 
 
 ### Organising  Committee
