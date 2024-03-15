@@ -33,7 +33,6 @@ Olmos, P. 2017. _Narration as Argument_. Cham, Switzerland: Springer Verlag.
 Reisigl, M 2021. ‘“Narrative!” I can’t hear that anymore’. A linguistic critique of an overstretched umbrella term in cultural and social science studies, discussed with the example of the discourse on climate change, _Critical Discourse Studies_ 18(3): 368-386.
 
 Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_. 2nd ed. London: Routledge.
->>>>>>> ba992a6cf383eff106f6cb3dc9ff811f884771fa
 
 ### Alexandra Georgakopoulou-Nunes, King's College London
 ![Alexandra Georgakopoulou-Nunes](/assets/images/alexandra.jpeg){: .align-center}
