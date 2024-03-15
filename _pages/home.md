@@ -25,6 +25,7 @@ We are delighted to announce our plenary speakers:
 * [Alexandra Georgakopoulou, King's College, London](https://www.kcl.ac.uk/people/alexandra-georgakopoulou)
 * [Camilla Vasquez, University of South Florida](https://www.usf.edu/arts-sciences/departments/world-languages/about-us/people/c-vasquez.aspx)
 
+Please see the _[Programme](https://gfburton.github.io/aiabrixen2024/programme/)_ for further details!
 
 ### Organising  Committee
 
