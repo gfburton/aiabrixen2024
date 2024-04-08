@@ -29,4 +29,73 @@ The mediaeval alleys and the wealth of historical references are an ideal starti
 
 **Accommodation**
 
-Information about accommodation will be provided shortly.
+We have reserved some places in the more economical options for conference participants. If you are interested in booking, please specify that you are attending the AIA Brixen 2024 conference when you make your enquiry.
+
+**_Hotel Jarolim_**
+
+Bahnhofplatz, 1
+
++39 0472 836230 
+hotel@hotel-jarolim.it  
+ 
+Single room: €89 per night including breakfast  
+Double room (single use): €112 per night including breakfast
+Note: €2,90 tourist tax
+ 
+**_Hotel Grüner Baum_**
+
+Via Stufles, 11 
+
++39 0472 274100 
+info@gruenerbaum.it  
+ 
+Single room: €91 per night including breakfast
+Note: €3,40 tourist tax 
+  
+**_Ostello della Gioventù Kassianeum_**
+
+Brunogasse, 2 
+
++39 0472 279999 
+brixen@jugendherberge.it  
+ 
+Single room with private bathroom: €47 per night including breakfast
+Four-bed room with shared bathroom: €29 per night including breakfast 
+Room with bunk beds and shared bathroom: €29 per night including breakfast
+Note: €2,40 tourist tax 
+
+
+Some other close-by options include:
+
+**_Hotel Elephant_**
+
+Via Rio Bianco, 4 
+
++39 0472 832750 
+info@hotelelephant.com 
+ 
+Single room: €99 per night including breakfast
+Double room (single use): €165 per night including breakfast
+Note: €2,40 tourist tax
+
+**_Hotel Krone_**
+Via Fienili, 4 
+
++39 0472 835 154 
+info@krone.bz  
+ 
+Single room: €115,00 per night including breakfast
+Note: Brixen Card included; €2,40 tourist tax
+ 
+**_Adler Historic Guesthouse_**
+
+Via Ponte Aquila, 9 
+
++39 0472 200621 
+info@adlerbrixen.com  
+ 
+Single room: €165,00 per night including breakfast
+Note: €3,40 tourist tax
+
+
+There are other options in the area around Bressanone, but many will require a car. There are also hotels in the nearby town of Klausen-Chiusa, which is around five minutes away by train, with a regular train service. Bolzano is around 40 minutes away by train.
