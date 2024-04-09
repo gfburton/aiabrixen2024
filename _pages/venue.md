@@ -15,7 +15,11 @@ The full address is:
 [Regensburger Allee 16 - viale Ratisbona, 16
 Italy - 39042, Brixen-Bressanone](https://maps.app.goo.gl/3nkBUX4geAmBePMr9)
 
-The faculty is within walking distance from Bressanone train station. The nearest airports are in Innsbruck, Munich, Verona, Milan and Venice. There are direct train links from Innsbruck, Munich and Verona.
+The faculty is within walking distance from Bressanone train station. The nearest airports are in Innsbruck, Munich, Verona, Milan and Venice.
+
+There are direct train links (no need to change train) from Innsbruck, Munich and Verona. Travelling from elsewhere in Italy by train, most tickets can be booked on the [Trenitalia site](https://www.trenitalia.com). If you plan to travel with the Trenord/ÖBB trains, it is worth booking in advance as the tickets are often discounted. Different discounts for these trains can also be found by booking on [bahn.de](https://www.bahn.de) and at [tickets.oebb.at](https://tickets.oebb.at). [Italo trains](https://www.italotreno.it) arrive as far as Bolzano, and may offer better value or be at more convenient times than Trenitalia trains. They do not appear on the timetable shown on the Trenitalia site.
+
+It is also possible to arrive in Bressanone with [Flixbus](https://www.flixbus.it).
 
 **About the campus and Brixen-Bressanon**
 
