@@ -96,4 +96,4 @@ Single room: €165,00 per night including breakfast
 Note: €3,40 tourist tax
 
 
-There are other options in the area around Bressanone, but many will require a car. There are also hotels in the nearby town of Klausen-Chiusa, which is around five minutes away by train, with a regular train service. Bolzano is around 40 minutes away by train.
+There are other options in and around Bressanone. Those outside the city may require a car. There are also hotels in the nearby town of Klausen-Chiusa, which is around five minutes away by train, with a regular train service. Bolzano is around 40 minutes away by train.
