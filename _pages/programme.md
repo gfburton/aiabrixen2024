@@ -83,7 +83,7 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 
 *9:30–10:30* Plenary lecture 2: Curated storytelling in/for the digital era: The case of story-formats (Alexandra Georgakopoulou, King's College London)
 
-*10:30–11:00* Coffee break
+_10:30–11:00_ Coffee break
 
 *11:00–1:00* Parallel sessions
 
