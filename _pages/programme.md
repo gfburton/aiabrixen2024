@@ -60,7 +60,7 @@ Reisigl, M 2021. ‘“Narrative!” I can’t hear that anymore’. A linguisti
 
 Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_. 2nd ed. London: Routledge.
 
-## Conference programme
+## Seminar programme
 
 ### Thursday 16th May
 
@@ -112,7 +112,7 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 
 1:00–2:00 *Final discussion and closing remarks*
 
-## Conference dinner and social events
+## Other events
 
 ### Walking tour (Thursday 16th)
 
