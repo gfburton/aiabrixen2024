@@ -42,9 +42,4 @@ Please note: to attend the conference, including to present a paper, it is neces
 
 {: .news-table}
 
-To submit an abstract: [OpenReview](https://openreview.net/group?id=AIA/2024/Seminar_Brixen)
-
-
-### Volunteer to review abstracts
-
-If you would like to be involved in the abstract review process for the seminar (max 5 reviews), please complete the form here: [https://forms.office.com/e/jFBcFFyJ9i](https://forms.office.com/e/jFBcFFyJ9i)
+The Call for Papers has now closed and decisions have been sent out. Please contact us if you did not receive an automated email from OpenReview about your abstract.
