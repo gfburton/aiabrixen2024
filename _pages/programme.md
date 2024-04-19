@@ -91,6 +91,11 @@ _10:30–11:00_ Coffee break
 
 *2:00–4:00* Parallel sessions
 
+4:00–4:30 Coffee break
+
+4:30–7:00 Assemblea Annuale AIA
+
+8:00–10:00 Social dinner
 
 
 ## Conference dinner and social events
