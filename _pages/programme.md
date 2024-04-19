@@ -116,7 +116,7 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 
 Sign up details for the walking tour of Brixen-Bressanone will be provided later.
 
-### Social dinner ###
+### Social dinner (Friday 17th)
 
 The social dinner will take place on Friday 17th, from 8pm. The dinner will be at Traubenwirt, which is walking distance from the seminar venue. The final menu will be as follows:
 
