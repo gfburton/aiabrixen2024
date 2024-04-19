@@ -62,11 +62,11 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 
 ### Thursday 16th May
 
-*1:00–2:00* Registration
+1:00–2:00 *Registration*
 
-*2:00–2:30* Welcome address and conference opening - Giuseppe Balirano & Maria Cristina Gatti
+2:00–2:30 *Welcome address and conference opening - Giuseppe Balirano & Maria Cristina Gatti*
 
-*2:30–3:00* Plenary Lecture 1: Storying Consumer Experiences: Narrativity in Online Reviews (Camilla Vasquez, University of South Florida)
+2:30–3:00 *Plenary Lecture 1: Storying Consumer Experiences: Narrativity in Online Reviews (Camilla Vasquez, University of South Florida)*
 
 *3:00–3:30* Coffee break
 
