@@ -68,36 +68,64 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 
 2:30–3:00 *Plenary Lecture 1: Storying Consumer Experiences: Narrativity in Online Reviews (Camilla Vasquez, University of South Florida)*
 
-*3:00–3:30* Coffee break
+3:00–3:30 *Coffee break*
 
-*3.30–6:00* Parallel sessions
+3.30–6:00 *Parallel sessions*
 
-*6:00-7:00* 'Think & Drink' event
+6:00-7:00 *'Think & Drink' event*
 
-*7:00-8:00* Guided city walk
+7:00-8:00 *Guided city walk*
 
 
 ### Friday 17th May
 
-*9:00–9:30* Registration
+9:00–9:30 *Registration*
 
-*9:30–10:30* Plenary lecture 2: Curated storytelling in/for the digital era: The case of story-formats (Alexandra Georgakopoulou, King's College London)
+9:30–10:30 *Plenary lecture 2: Curated storytelling in/for the digital era: The case of story-formats (Alexandra Georgakopoulou, King's College London)*
 
-_10:30–11:00_ Coffee break
+10:30–11:00 *Coffee break*
 
-*11:00–1:00* Parallel sessions
+11:00–1:00 *Parallel sessions*
 
-*1:00–2:00* Lunch
+1:00–2:00 *Lunch*
 
-*2:00–4:00* Parallel sessions
+2:00–4:00 *Parallel sessions*
+*
+4:00–4:30 *Coffee break*
 
-4:00–4:30 Coffee break
+4:30–7:00 *Assemblea Annuale AIA*
 
-4:30–7:00 Assemblea Annuale AIA
+8:00–10:00 *Social dinner*
 
-8:00–10:00 Social dinner
 
+### Saturday 18th May
+
+9:00–10:00 *Plenary lecture 3: Storytelling in corporate sustainability discourse: from narratives to Narratives and back (Paola Catenaccio, University of Milan)*
+
+10:00–11:30 *Parallel sessions*
+
+11:30–12:00 *Coffee break*
+
+12:00–1:00 *Parallel sessions*
+
+1:00–2:00 *Final discussion and closing remarks*
 
 ## Conference dinner and social events
 
-Coming soon
+### Walking tour (Thursday 16th)
+
+Sign up details for the walking tour of Brixen-Bressanone will be provided later.
+
+### Social dinner ###
+
+The social dinner will take place on Friday 17th, from 8pm. The dinner will be at Traubenwirt, which is walking distance from the seminar venue. The final menu is as follows:
+
+Schlutzkrapfen dell’Alto Adige (Mezzelune di segale bio-regionale, ripiene di spinaci e ricotta, formaggio di montagna e burro ai pinoli).
+
+Gulasch di manzo con tuberi stagionali e canederli di Speck
+
+Strudel di mela su specchio di salsa vaniglia
+
+It will be possible to communicate special dietary requirements nearer the time.
+
+The final cost for the social dinner is €50 per person, including drinks. This needs to be paid at the restaurant.
