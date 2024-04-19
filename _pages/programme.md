@@ -62,15 +62,35 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 
 ### Thursday 16th May
 
-*1:00–2:00* registration
-*2:00–2:30* welcome address and conference opening - Giuseppe Balirano & Maria Cristina Gatti
+*1:00–2:00* Registration
+
+*2:00–2:30* Welcome address and conference opening - Giuseppe Balirano & Maria Cristina Gatti
+
 *2:30–3:00* Plenary Lecture 1: Storying Consumer Experiences: Narrativity in Online Reviews (Camilla Vasquez, University of South Florida)
-*3:00–3:30* coffee break
+
+*3:00–3:30* Coffee break
+
 *3.30–6:00* Parallel sessions
+
 *6:00-7:00* 'Think & Drink' event
+
 *7:00-8:00* Guided city walk
 
+
 ### Friday 17th May
+
+*9:00–9:30* Registration
+
+*9:30–10:30* Plenary lecture 2: Curated storytelling in/for the digital era: The case of story-formats (Alexandra Georgakopoulou, King's College London)
+
+*10:30–11:00* Coffee break
+
+*11:00–1:00* Parallel sessions
+
+*1:00–2:00* Lunch
+
+*2:00–4:00* Parallel sessions
+
 
 
 ## Conference dinner and social events
