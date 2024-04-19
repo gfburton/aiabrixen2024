@@ -8,6 +8,8 @@ toc_icon: "cog"
 sidebar:
     nav: programme
 ---
+
+Click _[here](https://gfburton.github.io/aiabrixen2024/Assets/AIA_Brixen_2024_programme.pdf) to download the full programme in PDF format.
  
 ## Plenary sessions
 
