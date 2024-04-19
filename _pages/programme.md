@@ -90,7 +90,7 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 1:00–2:00 *Lunch*
 
 2:00–4:00 *Parallel sessions*
-*
+
 4:00–4:30 *Coffee break*
 
 4:30–7:00 *Assemblea Annuale AIA*
@@ -118,13 +118,13 @@ Sign up details for the walking tour of Brixen-Bressanone will be provided later
 
 ### Social dinner ###
 
-The social dinner will take place on Friday 17th, from 8pm. The dinner will be at Traubenwirt, which is walking distance from the seminar venue. The final menu is as follows:
+The social dinner will take place on Friday 17th, from 8pm. The dinner will be at Traubenwirt, which is walking distance from the seminar venue. The final menu will be as follows:
 
-Schlutzkrapfen dell’Alto Adige (Mezzelune di segale bio-regionale, ripiene di spinaci e ricotta, formaggio di montagna e burro ai pinoli).
+_Schlutzkrapfen dell’Alto Adige (Mezzelune di segale bio-regionale, ripiene di spinaci e ricotta, formaggio di montagna e burro ai pinoli)._
 
-Gulasch di manzo con tuberi stagionali e canederli di Speck
+_Gulasch di manzo con tuberi stagionali e canederli di Speck_
 
-Strudel di mela su specchio di salsa vaniglia
+_Strudel di mela su specchio di salsa vaniglia_
 
 It will be possible to communicate special dietary requirements nearer the time.
 
