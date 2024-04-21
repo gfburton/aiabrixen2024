@@ -60,59 +60,59 @@ Reisigl, M 2021. ‘“Narrative!” I can’t hear that anymore’. A linguisti
 
 Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_. 2nd ed. London: Routledge.
 
-## Conference programme
+## Seminar programme
 
 ### Thursday 16th May
 
-1:00–2:00 *Registration*
+**1:00–2:00** Registration
 
-2:00–2:30 *Welcome address and conference opening - Giuseppe Balirano & Maria Cristina Gatti*
+**2:00–2:30** Welcome address and conference opening - Giuseppe Balirano & Maria Cristina Gatti
 
-2:30–3:00 *Plenary Lecture 1: Storying Consumer Experiences: Narrativity in Online Reviews (Camilla Vasquez, University of South Florida)*
+**2:30–3:00** Plenary Lecture 1: Storying Consumer Experiences: Narrativity in Online Reviews (Camilla Vasquez, University of South Florida)
 
-3:00–3:30 *Coffee break*
+**3:00–3:30** Coffee break
 
-3.30–6:00 *Parallel sessions*
+**3.30–6:00** Parallel sessions
 
-6:00-7:00 *'Think & Drink' event*
+**6:00-7:00** 'Think & Drink' event
 
-7:00-8:00 *Guided city walk*
+**7:00-8:00** Guided city walk
 
 
 ### Friday 17th May
 
-9:00–9:30 *Registration*
+**9:00–9:30** Registration
 
-9:30–10:30 *Plenary lecture 2: Curated storytelling in/for the digital era: The case of story-formats (Alexandra Georgakopoulou, King's College London)*
+**9:30–10:30** Plenary lecture 2: Curated storytelling in/for the digital era: The case of story-formats (Alexandra Georgakopoulou, King's College London)
 
-10:30–11:00 *Coffee break*
+**10:30–11:00** Coffee break
 
-11:00–1:00 *Parallel sessions*
+**11:00–1:00** Parallel sessions
 
-1:00–2:00 *Lunch*
+**1:00–2:00** Lunch
 
-2:00–4:00 *Parallel sessions*
+**2:00–4:00** Parallel sessions
 
-4:00–4:30 *Coffee break*
+**4:00–4:30** Coffee break
 
-4:30–7:00 *Assemblea Annuale AIA*
+**4:30–7:00** Assemblea Annuale AIA
 
-8:00–10:00 *Social dinner*
+**8:00–10:00** Social dinner
 
 
 ### Saturday 18th May
 
-9:00–10:00 *Plenary lecture 3: Storytelling in corporate sustainability discourse: from narratives to Narratives and back (Paola Catenaccio, University of Milan)*
+**9:00–10:00** Plenary lecture 3: Storytelling in corporate sustainability discourse: from narratives to Narratives and back (Paola Catenaccio, University of Milan)
 
-10:00–11:30 *Parallel sessions*
+**10:00–11:30** Parallel sessions
 
-11:30–12:00 *Coffee break*
+**11:30–12:00** Coffee break
 
-12:00–1:00 *Parallel sessions*
+**12:00–1:00** Parallel sessions
 
-1:00–2:00 *Final discussion and closing remarks*
+**1:00–2:00** Final discussion and closing remarks
 
-## Conference dinner and social events
+## Other events
 
 ### Walking tour (Thursday 16th)
 
