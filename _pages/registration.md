@@ -11,5 +11,5 @@ The seminar fees are as follows:
 * PhD students: €80
 
 
-[Registration is open!] (https://www.conftool.com/aiabrixen2024/)
+[Registration is open!](https://www.conftool.com/aiabrixen2024/)
 
