@@ -116,7 +116,7 @@ Stibbe, A. 2021. _Ecolinguistics: Language, Ecology and the Stories We Live By_.
 
 ### Walking tour (Thursday 16th)
 
-Sign up details for the walking tour of Brixen-Bressanone will be provided later.
+The walking tour of Brixen-Bressanone will take place at 7pm.
 
 ### Social dinner (Friday 17th)
 
@@ -127,7 +127,5 @@ _Schlutzkrapfen dell’Alto Adige (Mezzelune di segale bio-regionale, ripiene di
 _Gulasch di manzo con tuberi stagionali e canederli di Speck_
 
 _Strudel di mela su specchio di salsa vaniglia_
-
-It will be possible to communicate special dietary requirements nearer the time.
 
 The final cost for the social dinner is €50 per person, including drinks. This needs to be paid at the restaurant.
