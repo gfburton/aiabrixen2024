@@ -13,3 +13,4 @@ The seminar fees are as follows:
 
 [Registration is open!](https://www.conftool.com/aiabrixen2024/)
 
+Please complete this [survey](https://forms.office.com/e/TfVgZ0utAs) about the walking tour, social dinner and any special dietary requirements. *If you do not wish to attend the walking tour or social dinner and have no special dietary requirements, you do not need to complete the survey.*
