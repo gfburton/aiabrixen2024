@@ -9,10 +9,11 @@ sidebar:
     nav: programme
 ---
 
-[Conference programme (PDF format)](https://gfburton.github.io/aiabrixen2024/assets/AIA_Brixen_2024_programme.pdf)
+[Seminar programme (PDF format)](https://gfburton.github.io/aiabrixen2024/assets/AIA_Brixen_2024_programme.pdf)
 
 [List of abstracts (PDF format)](https://gfburton.github.io/aiabrixen2024/assets/AIA_Brixen_2024_abstracts.pdf)
- 
+
+
 ## Plenary sessions
 
 ### Camilla Vasquez, University of South Florida
