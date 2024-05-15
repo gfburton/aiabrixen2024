@@ -9,7 +9,9 @@ sidebar:
     nav: programme
 ---
 
-Click [here](https://gfburton.github.io/aiabrixen2024/assets/AIA_Brixen_2024_programme.pdf) to download the full programme in PDF format.
+[Conference programme PDF download](https://gfburton.github.io/aiabrixen2024/assets/AIA_Brixen_2024_programme.pdf)
+
+[List of abstracts PDF download](https://gfburton.github.io/aiabrixen2024/assets/AIA_Brixen_2024_abstracts.pdf) to download
  
 ## Plenary sessions
 
